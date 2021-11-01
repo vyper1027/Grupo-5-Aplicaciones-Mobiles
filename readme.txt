@@ -1,4 +1,4 @@
-Calculo de IMC para la UNAB
+Cálculo de IMC para la UNAB
 
 El producto será una aplicación nativa para sistema operativo Android, cumplirá con los siguientes requisitos:
   •	El desarrollo sera en Android Studio con Java.
