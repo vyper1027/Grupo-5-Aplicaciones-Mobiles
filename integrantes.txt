@@ -1,5 +1,5 @@
-Christian David García Herrera - Encargado
-Diego Mario Correa López
-Diego fernando Jimenez Goyeneche
-Jeisson Danilo Ortega Diaz 
-Manuel Alejnadro Gonzales Gonzales
+Christian David García Herrera - Scrum Master
+Diego Mario Correa López       - Desarollador  Back end y Front end
+Diego fernando Jimenez Goyeneche -Product Owner
+Jeisson Danilo Ortega Diaz      - Grupo de desarrollador 
+Manuel Alejnadro Gonzales Gonzales - Grupo de desarrollador 
