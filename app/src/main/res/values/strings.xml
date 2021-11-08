@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMC_UNAB</string>
+    <string-array name="spinner_options">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+</resources>
