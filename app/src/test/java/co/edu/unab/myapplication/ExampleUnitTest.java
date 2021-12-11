@@ -1,4 +1,4 @@
-package co.edu.unab.imc_unab;
+package co.edu.unab.myapplication;
 
 import org.junit.Test;
 

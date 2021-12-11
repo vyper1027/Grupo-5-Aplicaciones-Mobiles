@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301886483722",
+    "project_id": "my-application-7f32f",
+    "storage_bucket": "my-application-7f32f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301886483722:android:6374d0bad5f41f99b39ef3",
+        "android_client_info": {
+          "package_name": "co.edu.unab.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301886483722-m5gsr90ptqtqfjvb3bukvb3n860i0cie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBolP8Hz3xr2z3CH0FCsb0y5HkQr-RY2FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301886483722-m5gsr90ptqtqfjvb3bukvb3n860i0cie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

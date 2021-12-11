@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">IMC_UNAB</string>
+    <string name="app_name">My Application</string>
     <string-array name="spinner_options">
         <item>Masculino</item>
         <item>Femenino</item>
